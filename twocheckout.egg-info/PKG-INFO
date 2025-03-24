@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: twocheckout
+Version: 1.1.0
+Summary: 2Checkout Python SDK using API 6.0
+Home-page: https://www.2checkout.com
+Author: 2Checkout
+Author-email: support@2checkout.com
+Requires-Python: >=3.5
+License-File: LICENSE
+Requires-Dist: requests>=2.28.1
+Requires-Dist: pyjwt>=2.0.1
